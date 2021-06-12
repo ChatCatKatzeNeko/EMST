@@ -1,3 +1,7 @@
+
+'''
+Author: Siyun WANG (wangsiyun6.15elsa@gmail.com)
+'''
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
